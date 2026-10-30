@@ -16,7 +16,7 @@
 **A fast, juicy fruit-slicing arcade game that runs right in your browser.**
 No installs. No libraries. Just swipe and slice.
 
-[**▶ Play Now**](https://YOUR_USERNAME.github.io/fruit-blade/) · [**🐞 Report Bug**](https://github.com/YOUR_USERNAME/fruit-blade/issues) · [**💡 Request Feature**](https://github.com/YOUR_USERNAME/fruit-blade/issues)
+[**▶ Play Now**](https://mr-farooqi.github.io/Fruit-Blade/) · [**🐞 Report Bug**](https://github.com/mr-farooqi/fruit-blade/issues) · [**💡 Request Feature**](https://github.com/mr-farooqi/fruit-blade/issues)
 
 </div>
 
